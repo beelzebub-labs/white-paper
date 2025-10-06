@@ -276,6 +276,7 @@ By combining the power of the Beelzebub framework, the passion of global researc
 ---
 
 **Document prepared by**: Mario Candela
+
 **Version**: 1.0  
 **Date**: October 2025  
 **License**: Creative Commons BY-SA 4.0  
