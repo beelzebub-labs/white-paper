@@ -250,7 +250,7 @@ Cybersecurity is a shared responsibility. Every blocked attack, every discovered
 ### How to Get Started
 
 1. **Star the GitHub repo**: https://github.com/mariocandela/beelzebub <- it will help us raise awareness of the project and grow the community
-2. **Join Discord**: https://discord.gg/VtqF5DD8
+2. **Join Discord**: https://discord.gg/MzkyVnVt6w
 3. **Read the documentation**: Set up your first node
 4. **Contribute**: Propose a honeypot configuration, and contribute with the community members
 
