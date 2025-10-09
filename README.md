@@ -3,9 +3,10 @@
 
 ## Executive Summary
 
-Modern cybersecurity requires global collaboration and real-time shared intelligence. This white paper introduces a community of researchers dedicated to creating a distributed honeypot network based on the **Beelzebub** open-source framework, with the goal of identifying emerging malware, discovering zero-day vulnerabilities, and neutralizing active botnets.
+Modern cybersecurity requires global collaboration and real-time shared intelligence. 
+This white paper introduces a community of researchers dedicated to creating a distributed honeypot network based on the **Beelzebub** open-source framework, with the goal of identifying emerging malware, discovering zero-day vulnerabilities, and neutralizing active botnets.
 
-Our mission is to build a collaborative ecosystem of global white hats who share data, configurations, and intelligence to make the web safer.
+Our mission is to build a collaborative ecosystem of global white hats who share data, configurations, and intelligence to make the web safer. 
 
 ---
 
@@ -35,7 +36,7 @@ We propose the creation of a decentralized community that:
 
 **Beelzebub** (https://github.com/mariocandela/beelzebub) is a modern and flexible honeypot framework that offers:
 
-- **Advanced configurability**: Simulation of multiple services (SSH, HTTP, SMTP, FTP, Docker API, etc.)
+- **Advanced configurability**: Simulation of multiple services (SSH, HTTP, SMTP, Docker API, etc.)
 - **Detailed logging**: Complete capture of attacker interactions
 - **Plugin system**: Extensibility for new protocols and behaviors
 - **Native integration**: Support for RabbitMQ and other messaging systems
@@ -235,7 +236,7 @@ Detection → Triage → Analysis → Response → Documentation
 
 ### Join the Revolution
 
-Cybersecurity is a shared responsibility. Every blocked attack, every discovered zero-day, every dismantled botnet brings us closer to a safer Internet.
+Cybersecurity is a shared responsibility. Every blocked attack, every discovered zero-day, every dismantled botnet brings us closer to a safer Internet. ❤️
 
 **If you are:**
 - A **security researcher** passionate about threat intelligence
@@ -248,10 +249,10 @@ Cybersecurity is a shared responsibility. Every blocked attack, every discovered
 
 ### How to Get Started
 
-1. **Star the GitHub repo**: https://github.com/mariocandela/beelzebub
+1. **Star the GitHub repo**: https://github.com/mariocandela/beelzebub <- it will help us raise awareness of the project and grow the community
 2. **Join Discord**: https://discord.gg/VtqF5DD8
 3. **Read the documentation**: Set up your first node
-4. **Contribute**: Propose a honeypot configuration
+4. **Contribute**: Propose a honeypot configuration, and contribute with the community members
 
 ### Contact
 
@@ -280,7 +281,7 @@ By combining the power of the Beelzebub framework, the passion of global researc
 **Version**: 1.0  
 **Date**: October 2025  
 **License**: Creative Commons BY-SA 4.0  
-**For contributions to this whitepaper**: [Contact/PR process]
+**For contributions to this whitepaper**: [Contact/PR process](https://github.com/beelzebub-labs/white-paper)
 
 ---
 
