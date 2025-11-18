@@ -232,8 +232,6 @@ Detection → Triage → Analysis → Response → Documentation
 
 ---
 
-## 8. Call to Action
-
 ### Join the Revolution
 
 Cybersecurity is a shared responsibility. Every blocked attack, every discovered zero-day, every dismantled botnet brings us closer to a safer Internet. ❤️
@@ -276,9 +274,9 @@ By combining the power of the Beelzebub framework, the passion of global researc
 
 ---
 
-**Document prepared by**: Mario Candela
+**Document prepared by**: Beelzebub
 
-**Version**: 1.0  
+**Version**: 1.0
 **Date**: October 2025  
 **License**: Creative Commons BY-SA 4.0  
 **For contributions to this whitepaper**: [Contact/PR process](https://github.com/beelzebub-labs/white-paper)
