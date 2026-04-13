@@ -123,7 +123,7 @@ The briefing warns of **burnout and attrition** as a direct operational risk, wi
 Beelzebub is an AI-native security platform born from over **36 months of open-source development**, with 2000+ GitHub stars, 450+ weekly installations across 45+ countries, and the trust of engineers at Fortune 500 companies including Microsoft, Google, Cisco, and Red Hat. A member of the NVIDIA Inception Program and supported by AWS, Google, and Microsoft startup programs, Beelzebub has evolved from a pioneering honeypot framework into a full-stack enterprise platform with three integrated products.
 
 <p align="center">
-  <img src="/assets/platforms.jpg"/>
+  <img src="/assets/platforms.webp"/>
 </p>
 
 ---
@@ -271,10 +271,3 @@ The CSA/SANS briefing closes with a comparison to Y2K: a systemic threat the ind
   <br/><br/>
   <a href="https://beelzebub.ai">beelzebub.ai</a> · <a href="mailto:info@beelzebub.ai">info@beelzebub.ai</a> · <a href="https://github.com/beelzebub-labs">GitHub</a> · <a href="https://www.linkedin.com/company/beelzebub">LinkedIn</a>
 </p>
-
----
-
-<sub>
-
-**Disclaimer:** This white paper is provided for informational purposes only. All claims regarding Beelzebub product capabilities are based on publicly available information from beelzebub.ai as of April 2026. References to the CSA/SANS *Mythos-Ready* briefing are for contextual purposes; Beelzebub Labs is not affiliated with the Cloud Security Alliance or SANS Institute. Product capabilities, integrations, and metrics are subject to change.
-</sub>
