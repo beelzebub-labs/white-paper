@@ -123,7 +123,7 @@ The briefing warns of **burnout and attrition** as a direct operational risk, wi
 Beelzebub is an AI-native security platform born from over **36 months of open-source development**, with 2000+ GitHub stars, 450+ weekly installations across 45+ countries, and the trust of engineers at Fortune 500 companies including Microsoft, Google, Cisco, and Red Hat. A member of the NVIDIA Inception Program and supported by AWS, Google, and Microsoft startup programs, Beelzebub has evolved from a pioneering honeypot framework into a full-stack enterprise platform with three integrated products.
 
 <p align="center">
-  <img src="/assets/platforms.jpg"/>
+  <img src="/assets/platforms.webp"/>
 </p>
 
 ---
