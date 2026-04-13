@@ -271,10 +271,3 @@ The CSA/SANS briefing closes with a comparison to Y2K: a systemic threat the ind
   <br/><br/>
   <a href="https://beelzebub.ai">beelzebub.ai</a> · <a href="mailto:info@beelzebub.ai">info@beelzebub.ai</a> · <a href="https://github.com/beelzebub-labs">GitHub</a> · <a href="https://www.linkedin.com/company/beelzebub">LinkedIn</a>
 </p>
-
----
-
-<sub>
-
-**Disclaimer:** This white paper is provided for informational purposes only. All claims regarding Beelzebub product capabilities are based on publicly available information from beelzebub.ai as of April 2026. References to the CSA/SANS *Mythos-Ready* briefing are for contextual purposes; Beelzebub Labs is not affiliated with the Cloud Security Alliance or SANS Institute. Product capabilities, integrations, and metrics are subject to change.
-</sub>
