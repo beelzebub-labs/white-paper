@@ -2,7 +2,7 @@
   <img src="/assets/beelzebub.png" alt="Beelzebub Logo" width="80"/>
 </p>
 
-<h1 align="center">Deception-First Defense in the Mythos Era</h1>
+<h1 align="center">Machine-Speed Active Defense in the Mythos Era</h1>
 
 <p align="center">
   <strong>How AI-Native Runtime Deception, Continuous Adversarial Simulation, and Autonomous Threat Intelligence Answer the AI Vulnerability Storm</strong>
